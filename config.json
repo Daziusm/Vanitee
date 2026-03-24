@@ -1,0 +1,8 @@
+{
+  "rps": 2.0,
+  "output": "hits.txt",
+  "proxy_file": null,
+  "webhook_url": null,
+  "webhook_max_len": 3,
+  "coordinate": false
+}

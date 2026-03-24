@@ -1,0 +1,4 @@
+httpx>=0.28.0
+textual>=8.0.0
+# Optional — enables HTTP/2 (faster, fewer connections):
+# httpx[http2]

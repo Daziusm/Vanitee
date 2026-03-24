@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Archives
+*.zip
+
+# Runtime files
+*.coord
+*.coord.lock
+*.progress
+
+# Output
+hits.txt
+
+# Wordlists (bring your own)
+*.txt
+!proxies_example.txt
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
