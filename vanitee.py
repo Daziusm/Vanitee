@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """
-Vanitee — Discord Vanity Code Checker
-Zero-flicker Textual TUI · Adaptive rate limiting · Proxy pool support
-Multi-instance coordination · Discord webhook notifications
-
-No API bypass — clean, IP-rate-limited approach.
+Vanitee — Vanity Checker
 
 Quick start:
     pip install -r requirements.txt
@@ -1637,3 +1633,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#- Work of @Daziusm, Contact for further questions/ help
