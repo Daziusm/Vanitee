@@ -2,7 +2,9 @@
   <img src="assets/vanitee.png" width="160" alt="Vanitee">
 </p>
 
-# Vanitee
+# Vanitee (not updating anytime soon)
+- if u really want this to work out, use it or sell it idm, tho give out credits :*
+- also use residential proxies, proxyscraper works, tho after a while it gets picked up by discord
 
 Discord vanity-code checker. No API bypass — just straightforward requests within Discord's rate limits.
 
